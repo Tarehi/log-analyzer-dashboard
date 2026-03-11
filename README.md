@@ -1,4 +1,4 @@
-# log-analyzer-dashboard
+# Tableau de bord de vos logs
 
 Un outil léger et rapide développé en Vanilla JavaScript (sans framework) pour l'analyse, le filtrage et la supervision de fichiers de logs bruts.
 
